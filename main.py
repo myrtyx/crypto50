@@ -15,13 +15,13 @@ def read_exchange_tokens(filename):
 
 def main():
     # Read the top cryptocurrencies from the CSV file
-    top_cryptos_df = pd.read_csv('top_cryptos_fdv.csv')
+    top_cryptos_df = pd.read_csv('top_cryptos_fdv.csv', encoding='ISO-8859-1')
 
     # Read exchange tokens
     binance_tokens = read_exchange_tokens('binance_tokens.csv')
     bybit_tokens = read_exchange_tokens('bybit_tokens.csv')
     okx_tokens = read_exchange_tokens('okx_tokens.csv')
-    extra_tokens = read_exchange_tokens('extra.csv')
+    #extra_tokens = read_exchange_tokens('extra.csv')
 
     # Set of stablecoin symbols to exclude
     stablecoin_symbols = {'USDT', 'USDC', 'DAI', 'BUSD', 'TUSD', 'USDP', 'GUSD', 'USDD', 'FEI',
@@ -55,8 +55,8 @@ def main():
             valid_list.append('Bybit')
         if symbol in okx_tokens:
             valid_list.append('OKX')
-        if symbol in extra_tokens:
-            valid_list.append('Extra')
+        #if symbol in extra_tokens:
+        #   valid_list.append('Extra')
 
         # If token is not listed on any exchange, skip it
         if not valid_list:
