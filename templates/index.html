@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crypto Index Ranked by FDV</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        .exchange-name {
+            color: red;
+            font-weight: bold;
+        }
+        .exchange-name.available {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Crypto Index Ranked by FDV</h1>
+        <p>This index ranks cryptocurrencies based on their Fully Diluted Valuation (FDV), excluding stablecoins. Unlike traditional rankings on CoinMarketCap or CoinGecko that focus on market capitalization, FDV provides a more forward-looking perspective by considering the maximum supply of tokens.</p>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Symbol</th>
+                    <th>Price (USD)</th>
+                    <th>Market Cap (USD)</th>
+                    <th>FDV (USD)</th>
+                    <th>CEX</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for coin in data %}
+                <tr>
+                    <td>{{ coin.Rank }}</td>
+                    <td>{{ coin.Name }}</td>
+                    <td>{{ coin.Symbol }}</td>
+                    <td>${{ coin.Price if coin.Price else 'N/A' }}</td>
+                    <td>${{ "{:,.0f}".format(coin.MarketCap) }}</td>
+                    <td>${{ "{:,.0f}".format(coin.FDV) }}</td>
+                    <td>
+                        {% set exchanges = ['Binance', 'Bybit', 'OKX'] %}
+                        {% for exchange in exchanges %}
+                            {% if exchange in coin.CEX %}
+                                <span class="exchange-name available">{{ exchange }}</span>
+                            {% else %}
+                                <span class="exchange-name">{{ exchange }}</span>
+                            {% endif %}
+                            {% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
