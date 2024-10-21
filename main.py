@@ -21,7 +21,7 @@ def main():
     binance_tokens = read_exchange_tokens('binance_tokens.csv')
     bybit_tokens = read_exchange_tokens('bybit_tokens.csv')
     okx_tokens = read_exchange_tokens('okx_tokens.csv')
-    #extra_tokens = read_exchange_tokens('extra.csv')
+    extra_tokens = read_exchange_tokens('extra.csv')
 
     # Set of stablecoin symbols to exclude
     stablecoin_symbols = {'USDT', 'USDC', 'DAI', 'BUSD', 'TUSD', 'USDP', 'GUSD', 'USDD', 'FEI',
@@ -55,8 +55,8 @@ def main():
             valid_list.append('Bybit')
         if symbol in okx_tokens:
             valid_list.append('OKX')
-        #if symbol in extra_tokens:
-        #   valid_list.append('Extra')
+        if symbol in extra_tokens:
+           valid_list.append('Extra')
 
         # If token is not listed on any exchange, skip it
         if not valid_list:
