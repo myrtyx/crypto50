@@ -1,0 +1,2891 @@
+{
+    "10000000AIDOGE": [
+        "Bybit"
+    ],
+    "1000000BABYDOGE": [
+        "Bybit"
+    ],
+    "1000000MOG": [
+        "Bybit"
+    ],
+    "1000000PEIPEI": [
+        "Bybit"
+    ],
+    "10000COQ": [
+        "Bybit"
+    ],
+    "10000LADYS": [
+        "Bybit"
+    ],
+    "10000SATS": [
+        "Bybit"
+    ],
+    "10000WEN": [
+        "Bybit"
+    ],
+    "10000WHY": [
+        "Bybit"
+    ],
+    "1000APU": [
+        "Bybit"
+    ],
+    "1000BONK": [
+        "Bybit"
+    ],
+    "1000BTT": [
+        "Bybit"
+    ],
+    "1000CAT": [
+        "Bybit"
+    ],
+    "1000CATS": [
+        "Bybit"
+    ],
+    "1000FLOKI": [
+        "Bybit"
+    ],
+    "1000LUNC": [
+        "Bybit"
+    ],
+    "1000MUMU": [
+        "Bybit"
+    ],
+    "1000NEIROCTO": [
+        "Bybit"
+    ],
+    "1000PEPE": [
+        "Bybit"
+    ],
+    "1000RATS": [
+        "Bybit"
+    ],
+    "1000SATS": [
+        "Binance"
+    ],
+    "1000TURBO": [
+        "Bybit"
+    ],
+    "1000XEC": [
+        "Bybit"
+    ],
+    "1CAT": [
+        "Bybit"
+    ],
+    "1INCH": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "1INCHDOWN": [
+        "Binance"
+    ],
+    "1INCHUP": [
+        "Binance"
+    ],
+    "1MBABYDOGE": [
+        "Binance"
+    ],
+    "A8": [
+        "Bybit"
+    ],
+    "AAVE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AAVEDOWN": [
+        "Binance"
+    ],
+    "AAVEUP": [
+        "Binance"
+    ],
+    "ACA": [
+        "Binance",
+        "OKX"
+    ],
+    "ACE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ACH": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ACM": [
+        "Binance"
+    ],
+    "ADA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ADADOWN": [
+        "Binance"
+    ],
+    "ADAUP": [
+        "Binance"
+    ],
+    "ADX": [
+        "Binance"
+    ],
+    "AE": [
+        "Binance"
+    ],
+    "AERGO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AERO": [
+        "Bybit"
+    ],
+    "AEUR": [
+        "Binance"
+    ],
+    "AEVO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AGI": [
+        "Binance",
+        "Bybit"
+    ],
+    "AGIX": [
+        "Binance"
+    ],
+    "AGLD": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AI": [
+        "Binance",
+        "Bybit"
+    ],
+    "AIDOGE": [
+        "OKX"
+    ],
+    "AION": [
+        "Binance"
+    ],
+    "AIOZ": [
+        "Bybit"
+    ],
+    "AKRO": [
+        "Binance",
+        "Bybit"
+    ],
+    "AKT": [
+        "Bybit"
+    ],
+    "ALCX": [
+        "Binance",
+        "OKX"
+    ],
+    "ALEO": [
+        "Bybit"
+    ],
+    "ALGO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ALICE": [
+        "Binance",
+        "Bybit"
+    ],
+    "ALPACA": [
+        "Binance",
+        "Bybit"
+    ],
+    "ALPHA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ALPINE": [
+        "Binance"
+    ],
+    "ALT": [
+        "Binance",
+        "Bybit"
+    ],
+    "AMB": [
+        "Binance",
+        "Bybit"
+    ],
+    "AMP": [
+        "Binance"
+    ],
+    "ANC": [
+        "Binance"
+    ],
+    "ANKR": [
+        "Binance",
+        "Bybit"
+    ],
+    "ANT": [
+        "Binance"
+    ],
+    "ANY": [
+        "Binance"
+    ],
+    "APE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "API3": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "APPC": [
+        "Binance"
+    ],
+    "APT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ARB": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ARDR": [
+        "Binance"
+    ],
+    "ARG": [
+        "OKX"
+    ],
+    "ARK": [
+        "Binance",
+        "Bybit"
+    ],
+    "ARKM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ARN": [
+        "Binance"
+    ],
+    "ARPA": [
+        "Binance",
+        "Bybit"
+    ],
+    "ARTY": [
+        "OKX"
+    ],
+    "ASR": [
+        "Binance"
+    ],
+    "AST": [
+        "Binance",
+        "OKX"
+    ],
+    "ASTR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ATA": [
+        "Binance",
+        "Bybit"
+    ],
+    "ATH": [
+        "Bybit",
+        "OKX"
+    ],
+    "ATM": [
+        "Binance"
+    ],
+    "ATOM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AUCTION": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AUD": [
+        "Binance"
+    ],
+    "AUDIO": [
+        "Binance",
+        "Bybit"
+    ],
+    "AUTO": [
+        "Binance"
+    ],
+    "AVA": [
+        "Binance"
+    ],
+    "AVAIL": [
+        "Bybit"
+    ],
+    "AVAX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "AVIVE": [
+        "OKX"
+    ],
+    "AXL": [
+        "Binance",
+        "Bybit"
+    ],
+    "AXS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BABYDOGE": [
+        "OKX"
+    ],
+    "BADGER": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BAKE": [
+        "Binance",
+        "Bybit"
+    ],
+    "BAL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BANANA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BAND": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BAR": [
+        "Binance"
+    ],
+    "BAT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BB": [
+        "Binance",
+        "Bybit"
+    ],
+    "BCC": [
+        "Binance"
+    ],
+    "BCD": [
+        "Binance"
+    ],
+    "BCH": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BCHA": [
+        "Binance"
+    ],
+    "BCHABC": [
+        "Binance"
+    ],
+    "BCHDOWN": [
+        "Binance"
+    ],
+    "BCHSV": [
+        "Binance"
+    ],
+    "BCHUP": [
+        "Binance"
+    ],
+    "BCN": [
+        "Binance"
+    ],
+    "BCPT": [
+        "Binance"
+    ],
+    "BDOT": [
+        "Binance"
+    ],
+    "BEAM": [
+        "Binance",
+        "Bybit"
+    ],
+    "BEAMX": [
+        "Binance"
+    ],
+    "BEAR": [
+        "Binance"
+    ],
+    "BEL": [
+        "Binance",
+        "Bybit"
+    ],
+    "BENDOG": [
+        "Bybit"
+    ],
+    "BETA": [
+        "Binance"
+    ],
+    "BETH": [
+        "Binance",
+        "OKX"
+    ],
+    "BGBP": [
+        "Binance"
+    ],
+    "BICO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BIFI": [
+        "Binance"
+    ],
+    "BIGTIME": [
+        "Bybit",
+        "OKX"
+    ],
+    "BKRW": [
+        "Binance"
+    ],
+    "BLAST": [
+        "Bybit"
+    ],
+    "BLOCK": [
+        "OKX"
+    ],
+    "BLUR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BLZ": [
+        "Binance",
+        "Bybit"
+    ],
+    "BNB": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BNBBEAR": [
+        "Binance"
+    ],
+    "BNBBULL": [
+        "Binance"
+    ],
+    "BNBDOWN": [
+        "Binance"
+    ],
+    "BNBUP": [
+        "Binance"
+    ],
+    "BNSOL": [
+        "Binance"
+    ],
+    "BNT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BNX": [
+        "Binance",
+        "Bybit"
+    ],
+    "BOBA": [
+        "Bybit"
+    ],
+    "BOME": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BOND": [
+        "Binance",
+        "Bybit"
+    ],
+    "BONE": [
+        "OKX"
+    ],
+    "BONK": [
+        "Binance",
+        "OKX"
+    ],
+    "BORA": [
+        "OKX"
+    ],
+    "BORING": [
+        "OKX"
+    ],
+    "BOT": [
+        "Binance"
+    ],
+    "BQX": [
+        "Binance"
+    ],
+    "BRD": [
+        "Binance"
+    ],
+    "BRETT": [
+        "Bybit"
+    ],
+    "BSV": [
+        "Bybit",
+        "OKX"
+    ],
+    "BSW": [
+        "Binance",
+        "Bybit"
+    ],
+    "BTC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "BTCB": [
+        "Binance"
+    ],
+    "BTCDOWN": [
+        "Binance"
+    ],
+    "BTCST": [
+        "Binance"
+    ],
+    "BTCUP": [
+        "Binance"
+    ],
+    "BTG": [
+        "Binance"
+    ],
+    "BTS": [
+        "Binance"
+    ],
+    "BTT": [
+        "Binance",
+        "OKX"
+    ],
+    "BTTC": [
+        "Binance"
+    ],
+    "BULL": [
+        "Binance"
+    ],
+    "BURGER": [
+        "Binance"
+    ],
+    "BUSD": [
+        "Binance"
+    ],
+    "BZRX": [
+        "Binance"
+    ],
+    "BZZ": [
+        "OKX"
+    ],
+    "C98": [
+        "Binance",
+        "Bybit"
+    ],
+    "CAKE": [
+        "Binance",
+        "Bybit"
+    ],
+    "CARV": [
+        "Bybit"
+    ],
+    "CATI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CDT": [
+        "Binance"
+    ],
+    "CEEK": [
+        "OKX"
+    ],
+    "CELO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CELR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CETUS": [
+        "Bybit",
+        "OKX"
+    ],
+    "CFG": [
+        "OKX"
+    ],
+    "CFX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CHAT": [
+        "Binance"
+    ],
+    "CHESS": [
+        "Binance",
+        "Bybit"
+    ],
+    "CHR": [
+        "Binance",
+        "Bybit"
+    ],
+    "CHZ": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CITY": [
+        "Binance",
+        "OKX"
+    ],
+    "CKB": [
+        "Binance",
+        "Bybit"
+    ],
+    "CLOAK": [
+        "Binance"
+    ],
+    "CLOUD": [
+        "Bybit"
+    ],
+    "CLV": [
+        "Binance",
+        "OKX"
+    ],
+    "CMT": [
+        "Binance"
+    ],
+    "CND": [
+        "Binance"
+    ],
+    "COCOS": [
+        "Binance"
+    ],
+    "COMBO": [
+        "Binance",
+        "Bybit"
+    ],
+    "COMP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CORE": [
+        "Bybit",
+        "OKX"
+    ],
+    "COS": [
+        "Binance",
+        "Bybit"
+    ],
+    "COTI": [
+        "Binance",
+        "Bybit"
+    ],
+    "COVER": [
+        "Binance"
+    ],
+    "CREAM": [
+        "Binance"
+    ],
+    "CRO": [
+        "Bybit",
+        "OKX"
+    ],
+    "CRV": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CSPR": [
+        "OKX"
+    ],
+    "CTC": [
+        "Bybit",
+        "OKX"
+    ],
+    "CTK": [
+        "Binance",
+        "Bybit"
+    ],
+    "CTSI": [
+        "Binance",
+        "Bybit"
+    ],
+    "CTXC": [
+        "Binance",
+        "OKX"
+    ],
+    "CVC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CVP": [
+        "Binance"
+    ],
+    "CVX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "CXT": [
+        "OKX"
+    ],
+    "CYBER": [
+        "Binance",
+        "Bybit"
+    ],
+    "DAI": [
+        "Binance",
+        "OKX"
+    ],
+    "DAO": [
+        "OKX"
+    ],
+    "DAR": [
+        "Binance",
+        "Bybit"
+    ],
+    "DASH": [
+        "Binance",
+        "Bybit"
+    ],
+    "DATA": [
+        "Binance",
+        "Bybit"
+    ],
+    "DBR": [
+        "Bybit"
+    ],
+    "DCR": [
+        "Binance"
+    ],
+    "DEEP": [
+        "Bybit"
+    ],
+    "DEGEN": [
+        "Bybit",
+        "OKX"
+    ],
+    "DEGO": [
+        "Binance"
+    ],
+    "DENT": [
+        "Binance",
+        "Bybit"
+    ],
+    "DEP": [
+        "OKX"
+    ],
+    "DEXE": [
+        "Binance",
+        "Bybit"
+    ],
+    "DF": [
+        "Binance"
+    ],
+    "DGB": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "DGD": [
+        "Binance"
+    ],
+    "DIA": [
+        "Binance",
+        "OKX"
+    ],
+    "DLT": [
+        "Binance"
+    ],
+    "DNT": [
+        "Binance"
+    ],
+    "DOCK": [
+        "Binance"
+    ],
+    "DODO": [
+        "Binance",
+        "Bybit"
+    ],
+    "DOG": [
+        "Bybit"
+    ],
+    "DOGE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "DOGS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "DOP1": [
+        "Bybit"
+    ],
+    "DORA": [
+        "OKX"
+    ],
+    "DOT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "DOTDOWN": [
+        "Binance"
+    ],
+    "DOTUP": [
+        "Binance"
+    ],
+    "DREP": [
+        "Binance"
+    ],
+    "DRIFT": [
+        "Bybit"
+    ],
+    "DUSK": [
+        "Binance",
+        "Bybit"
+    ],
+    "DYDX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "DYM": [
+        "Binance",
+        "Bybit"
+    ],
+    "EASY": [
+        "Binance"
+    ],
+    "EDO": [
+        "Binance"
+    ],
+    "EDU": [
+        "Binance",
+        "Bybit"
+    ],
+    "EGLD": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "EIGEN": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ELF": [
+        "Binance",
+        "OKX"
+    ],
+    "ELON": [
+        "OKX"
+    ],
+    "ENA": [
+        "Binance",
+        "Bybit"
+    ],
+    "ENG": [
+        "Binance"
+    ],
+    "ENJ": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ENS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "EOS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "EOSBEAR": [
+        "Binance"
+    ],
+    "EOSBULL": [
+        "Binance"
+    ],
+    "EOSDOWN": [
+        "Binance"
+    ],
+    "EOSUP": [
+        "Binance"
+    ],
+    "EPS": [
+        "Binance"
+    ],
+    "EPX": [
+        "Binance"
+    ],
+    "ERD": [
+        "Binance"
+    ],
+    "ERN": [
+        "Binance",
+        "OKX"
+    ],
+    "ETC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ETH": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ETHBEAR": [
+        "Binance"
+    ],
+    "ETHBTC": [
+        "Bybit"
+    ],
+    "ETHBULL": [
+        "Binance"
+    ],
+    "ETHDOWN": [
+        "Binance"
+    ],
+    "ETHFI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ETHUP": [
+        "Binance"
+    ],
+    "ETHW": [
+        "Bybit",
+        "OKX"
+    ],
+    "EUR": [
+        "Binance"
+    ],
+    "EURC": [
+        "OKX"
+    ],
+    "EURI": [
+        "Binance"
+    ],
+    "EVX": [
+        "Binance"
+    ],
+    "EZ": [
+        "Binance"
+    ],
+    "FARM": [
+        "Binance"
+    ],
+    "FB": [
+        "Bybit"
+    ],
+    "FDUSD": [
+        "Binance",
+        "Bybit"
+    ],
+    "FET": [
+        "Binance",
+        "OKX"
+    ],
+    "FIDA": [
+        "Binance",
+        "Bybit"
+    ],
+    "FIL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "FILDOWN": [
+        "Binance"
+    ],
+    "FILUP": [
+        "Binance"
+    ],
+    "FIO": [
+        "Binance",
+        "Bybit"
+    ],
+    "FIRE": [
+        "Bybit"
+    ],
+    "FIRO": [
+        "Binance"
+    ],
+    "FIS": [
+        "Binance"
+    ],
+    "FITFI": [
+        "Bybit"
+    ],
+    "FLM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "FLOKI": [
+        "Binance",
+        "OKX"
+    ],
+    "FLOW": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "FLR": [
+        "Bybit",
+        "OKX"
+    ],
+    "FLUX": [
+        "Binance",
+        "Bybit"
+    ],
+    "FOR": [
+        "Binance"
+    ],
+    "FORTH": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "FOXY": [
+        "Bybit",
+        "OKX"
+    ],
+    "FRONT": [
+        "Binance"
+    ],
+    "FTM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "FTN": [
+        "Bybit"
+    ],
+    "FTT": [
+        "Binance"
+    ],
+    "FUEL": [
+        "Binance"
+    ],
+    "FUN": [
+        "Binance",
+        "Bybit"
+    ],
+    "FXS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "G": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GAL": [
+        "Binance"
+    ],
+    "GALA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GALFT": [
+        "OKX"
+    ],
+    "GAS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GBP": [
+        "Binance"
+    ],
+    "GEAR": [
+        "OKX"
+    ],
+    "GFT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GHST": [
+        "Binance",
+        "OKX"
+    ],
+    "GLM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GLMR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GME": [
+        "Bybit"
+    ],
+    "GMT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GMX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GNO": [
+        "Binance",
+        "Bybit"
+    ],
+    "GNS": [
+        "Binance"
+    ],
+    "GNT": [
+        "Binance"
+    ],
+    "GO": [
+        "Binance"
+    ],
+    "GOAL": [
+        "OKX"
+    ],
+    "GOAT": [
+        "Bybit"
+    ],
+    "GODS": [
+        "Bybit",
+        "OKX"
+    ],
+    "GOG": [
+        "OKX"
+    ],
+    "GOMINING": [
+        "Bybit"
+    ],
+    "GPT": [
+        "OKX"
+    ],
+    "GRS": [
+        "Binance"
+    ],
+    "GRT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "GTC": [
+        "Binance",
+        "Bybit"
+    ],
+    "GTO": [
+        "Binance"
+    ],
+    "GVT": [
+        "Binance"
+    ],
+    "GXS": [
+        "Binance"
+    ],
+    "HARD": [
+        "Binance"
+    ],
+    "HBAR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "HC": [
+        "Binance"
+    ],
+    "HEGIC": [
+        "Binance"
+    ],
+    "HFT": [
+        "Binance",
+        "Bybit"
+    ],
+    "HIFI": [
+        "Binance",
+        "Bybit"
+    ],
+    "HIGH": [
+        "Binance",
+        "Bybit"
+    ],
+    "HIVE": [
+        "Binance"
+    ],
+    "HMSTR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "HNT": [
+        "Binance",
+        "Bybit"
+    ],
+    "HOOK": [
+        "Binance",
+        "Bybit"
+    ],
+    "HOT": [
+        "Binance",
+        "Bybit"
+    ],
+    "HPOS10I": [
+        "Bybit"
+    ],
+    "HSR": [
+        "Binance"
+    ],
+    "ICE": [
+        "OKX"
+    ],
+    "ICN": [
+        "Binance"
+    ],
+    "ICP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ICX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ID": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "IDEX": [
+        "Binance",
+        "Bybit"
+    ],
+    "ILV": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "IMX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "INJ": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "INS": [
+        "Binance"
+    ],
+    "IO": [
+        "Binance",
+        "Bybit"
+    ],
+    "IOST": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "IOTA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "IOTX": [
+        "Binance",
+        "Bybit"
+    ],
+    "IQ": [
+        "Binance",
+        "OKX"
+    ],
+    "IRIS": [
+        "Binance"
+    ],
+    "JASMY": [
+        "Binance",
+        "Bybit"
+    ],
+    "JOE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "JST": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "JTO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "JUP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "JUV": [
+        "Binance"
+    ],
+    "KAN": [
+        "OKX"
+    ],
+    "KAS": [
+        "Bybit"
+    ],
+    "KAVA": [
+        "Binance",
+        "Bybit"
+    ],
+    "KDA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "KEEP": [
+        "Binance"
+    ],
+    "KEY": [
+        "Binance",
+        "Bybit"
+    ],
+    "KISHU": [
+        "OKX"
+    ],
+    "KLAY": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "KMD": [
+        "Binance"
+    ],
+    "KMNO": [
+        "Bybit"
+    ],
+    "KNC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "KP3R": [
+        "Binance",
+        "OKX"
+    ],
+    "KSM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "L3": [
+        "Bybit"
+    ],
+    "LAI": [
+        "Bybit"
+    ],
+    "LAMB": [
+        "OKX"
+    ],
+    "LAT": [
+        "OKX"
+    ],
+    "LAZIO": [
+        "Binance"
+    ],
+    "LBR": [
+        "OKX"
+    ],
+    "LDO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LEND": [
+        "Binance"
+    ],
+    "LEO": [
+        "OKX"
+    ],
+    "LEVER": [
+        "Binance",
+        "Bybit"
+    ],
+    "LINA": [
+        "Binance",
+        "Bybit"
+    ],
+    "LINK": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LINKDOWN": [
+        "Binance"
+    ],
+    "LINKUP": [
+        "Binance"
+    ],
+    "LISTA": [
+        "Binance",
+        "Bybit"
+    ],
+    "LIT": [
+        "Binance",
+        "Bybit"
+    ],
+    "LOKA": [
+        "Binance"
+    ],
+    "LON": [
+        "OKX"
+    ],
+    "LOOKS": [
+        "Bybit",
+        "OKX"
+    ],
+    "LOOM": [
+        "Binance"
+    ],
+    "LPT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LQTY": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LRC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LSK": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LTC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "LTCDOWN": [
+        "Binance"
+    ],
+    "LTCUP": [
+        "Binance"
+    ],
+    "LTO": [
+        "Binance",
+        "Bybit"
+    ],
+    "LUMIA": [
+        "Binance"
+    ],
+    "LUN": [
+        "Binance"
+    ],
+    "LUNA": [
+        "Binance",
+        "OKX"
+    ],
+    "LUNA2": [
+        "Bybit"
+    ],
+    "LUNC": [
+        "Binance",
+        "OKX"
+    ],
+    "MAGIC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MANA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MANEKI": [
+        "Bybit"
+    ],
+    "MANTA": [
+        "Binance",
+        "Bybit"
+    ],
+    "MASA": [
+        "Bybit"
+    ],
+    "MASK": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MATIC": [
+        "Binance"
+    ],
+    "MAV": [
+        "Binance",
+        "Bybit"
+    ],
+    "MAVIA": [
+        "Bybit"
+    ],
+    "MAX": [
+        "Bybit",
+        "OKX"
+    ],
+    "MBL": [
+        "Binance",
+        "Bybit"
+    ],
+    "MBOX": [
+        "Binance",
+        "Bybit"
+    ],
+    "MC": [
+        "Binance"
+    ],
+    "MCO": [
+        "Binance"
+    ],
+    "MDA": [
+        "Binance"
+    ],
+    "MDT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MDX": [
+        "Binance"
+    ],
+    "MEME": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MENGO": [
+        "OKX"
+    ],
+    "MERL": [
+        "Bybit",
+        "OKX"
+    ],
+    "METIS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MEW": [
+        "Bybit",
+        "OKX"
+    ],
+    "MFT": [
+        "Binance"
+    ],
+    "MILO": [
+        "OKX"
+    ],
+    "MINA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MIR": [
+        "Binance"
+    ],
+    "MITH": [
+        "Binance"
+    ],
+    "MKR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MLN": [
+        "Binance",
+        "OKX"
+    ],
+    "MNT": [
+        "Bybit"
+    ],
+    "MOB": [
+        "Binance"
+    ],
+    "MOBILE": [
+        "Bybit"
+    ],
+    "MOCA": [
+        "Bybit"
+    ],
+    "MOD": [
+        "Binance"
+    ],
+    "MON": [
+        "Bybit"
+    ],
+    "MOODENG": [
+        "Bybit"
+    ],
+    "MOTHER": [
+        "Bybit"
+    ],
+    "MOVR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "MTH": [
+        "Binance"
+    ],
+    "MTL": [
+        "Binance",
+        "Bybit"
+    ],
+    "MULTI": [
+        "Binance"
+    ],
+    "MXC": [
+        "OKX"
+    ],
+    "MYRIA": [
+        "Bybit",
+        "OKX"
+    ],
+    "MYRO": [
+        "Bybit"
+    ],
+    "NANO": [
+        "Binance"
+    ],
+    "NAS": [
+        "Binance"
+    ],
+    "NAV": [
+        "Binance"
+    ],
+    "NBS": [
+        "Binance"
+    ],
+    "NCASH": [
+        "Binance"
+    ],
+    "NEAR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "NEBL": [
+        "Binance"
+    ],
+    "NEIRO": [
+        "Binance",
+        "OKX"
+    ],
+    "NEIROETH": [
+        "Bybit"
+    ],
+    "NEO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "NEXO": [
+        "Binance"
+    ],
+    "NFP": [
+        "Binance",
+        "Bybit"
+    ],
+    "NFT": [
+        "OKX"
+    ],
+    "NKN": [
+        "Binance",
+        "Bybit"
+    ],
+    "NMR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "NOT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "NPXS": [
+        "Binance"
+    ],
+    "NTRN": [
+        "Binance",
+        "Bybit"
+    ],
+    "NU": [
+        "Binance"
+    ],
+    "NULS": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "NXS": [
+        "Binance"
+    ],
+    "NYAN": [
+        "Bybit"
+    ],
+    "OAS": [
+        "OKX"
+    ],
+    "OAX": [
+        "Binance"
+    ],
+    "OCEAN": [
+        "Binance"
+    ],
+    "OG": [
+        "Binance",
+        "Bybit"
+    ],
+    "OGN": [
+        "Binance",
+        "Bybit"
+    ],
+    "OKB": [
+        "OKX"
+    ],
+    "OKT": [
+        "OKX"
+    ],
+    "OM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "OMG": [
+        "Binance",
+        "Bybit"
+    ],
+    "OMI": [
+        "OKX"
+    ],
+    "OMNI": [
+        "Binance",
+        "Bybit"
+    ],
+    "ONDO": [
+        "Bybit",
+        "OKX"
+    ],
+    "ONE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ONG": [
+        "Binance",
+        "Bybit"
+    ],
+    "ONT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "OOKI": [
+        "Binance"
+    ],
+    "OP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ORBS": [
+        "Bybit",
+        "OKX"
+    ],
+    "ORCA": [
+        "Bybit"
+    ],
+    "ORDER": [
+        "Bybit"
+    ],
+    "ORDI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ORN": [
+        "Binance"
+    ],
+    "OSMO": [
+        "Binance",
+        "Bybit"
+    ],
+    "OST": [
+        "Binance"
+    ],
+    "OXT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PAX": [
+        "Binance"
+    ],
+    "PAXG": [
+        "Binance",
+        "Bybit"
+    ],
+    "PDA": [
+        "Binance"
+    ],
+    "PENDLE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PENG": [
+        "Bybit"
+    ],
+    "PEOPLE": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PEPE": [
+        "Binance",
+        "OKX"
+    ],
+    "PERL": [
+        "Binance"
+    ],
+    "PERP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PHA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PHB": [
+        "Binance",
+        "Bybit"
+    ],
+    "PHX": [
+        "Binance"
+    ],
+    "PIRATE": [
+        "Bybit"
+    ],
+    "PIVX": [
+        "Binance"
+    ],
+    "PIXEL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PIXFI": [
+        "Bybit"
+    ],
+    "PLA": [
+        "Binance"
+    ],
+    "PNT": [
+        "Binance"
+    ],
+    "POA": [
+        "Binance"
+    ],
+    "POE": [
+        "Binance"
+    ],
+    "POL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "POLS": [
+        "Binance"
+    ],
+    "POLY": [
+        "Binance"
+    ],
+    "POLYDOGE": [
+        "OKX"
+    ],
+    "POLYX": [
+        "Binance",
+        "Bybit"
+    ],
+    "POND": [
+        "Binance"
+    ],
+    "PONKE": [
+        "Bybit"
+    ],
+    "POPCAT": [
+        "Bybit"
+    ],
+    "POR": [
+        "OKX"
+    ],
+    "PORTAL": [
+        "Binance",
+        "Bybit"
+    ],
+    "PORTO": [
+        "Binance"
+    ],
+    "POWR": [
+        "Binance",
+        "Bybit"
+    ],
+    "PPT": [
+        "Binance"
+    ],
+    "PRCL": [
+        "Bybit",
+        "OKX"
+    ],
+    "PRIME": [
+        "Bybit"
+    ],
+    "PROM": [
+        "Binance",
+        "Bybit"
+    ],
+    "PROS": [
+        "Binance"
+    ],
+    "PRQ": [
+        "OKX"
+    ],
+    "PSG": [
+        "Binance"
+    ],
+    "PSTAKE": [
+        "OKX"
+    ],
+    "PUFFER": [
+        "Bybit"
+    ],
+    "PUNDIX": [
+        "Binance"
+    ],
+    "PYR": [
+        "Binance",
+        "Bybit"
+    ],
+    "PYTH": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "PYUSD": [
+        "OKX"
+    ],
+    "QI": [
+        "Binance",
+        "Bybit"
+    ],
+    "QKC": [
+        "Binance"
+    ],
+    "QLC": [
+        "Binance"
+    ],
+    "QNT": [
+        "Binance",
+        "Bybit"
+    ],
+    "QSP": [
+        "Binance"
+    ],
+    "QTUM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "QUICK": [
+        "Binance",
+        "Bybit"
+    ],
+    "RACA": [
+        "OKX"
+    ],
+    "RAD": [
+        "Binance",
+        "Bybit"
+    ],
+    "RADAR": [
+        "OKX"
+    ],
+    "RAMP": [
+        "Binance"
+    ],
+    "RARE": [
+        "Binance",
+        "Bybit"
+    ],
+    "RAY": [
+        "Binance",
+        "OKX"
+    ],
+    "RAYDIUM": [
+        "Bybit"
+    ],
+    "RCN": [
+        "Binance"
+    ],
+    "RDN": [
+        "Binance"
+    ],
+    "RDNT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "REEF": [
+        "Binance",
+        "Bybit"
+    ],
+    "REI": [
+        "Binance"
+    ],
+    "REN": [
+        "Binance",
+        "Bybit"
+    ],
+    "RENBTC": [
+        "Binance"
+    ],
+    "RENDER": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "REP": [
+        "Binance"
+    ],
+    "REQ": [
+        "Binance",
+        "Bybit"
+    ],
+    "REZ": [
+        "Binance",
+        "Bybit"
+    ],
+    "RGT": [
+        "Binance"
+    ],
+    "RIF": [
+        "Binance",
+        "Bybit"
+    ],
+    "RIO": [
+        "OKX"
+    ],
+    "RLC": [
+        "Binance",
+        "Bybit"
+    ],
+    "RNDR": [
+        "Binance"
+    ],
+    "RON": [
+        "Bybit",
+        "OKX"
+    ],
+    "RONIN": [
+        "Binance"
+    ],
+    "ROSE": [
+        "Binance",
+        "Bybit"
+    ],
+    "RPL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "RPX": [
+        "Binance"
+    ],
+    "RSR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "RSS3": [
+        "Bybit",
+        "OKX"
+    ],
+    "RUNE": [
+        "Binance",
+        "Bybit"
+    ],
+    "RUNECOIN": [
+        "OKX"
+    ],
+    "RVN": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SAFE": [
+        "Bybit",
+        "OKX"
+    ],
+    "SAGA": [
+        "Binance",
+        "Bybit"
+    ],
+    "SALT": [
+        "Binance"
+    ],
+    "SAMO": [
+        "OKX"
+    ],
+    "SAND": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SANTOS": [
+        "Binance"
+    ],
+    "SATS": [
+        "OKX"
+    ],
+    "SC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SCA": [
+        "Bybit"
+    ],
+    "SCR": [
+        "Binance",
+        "Bybit"
+    ],
+    "SCRT": [
+        "Binance",
+        "Bybit"
+    ],
+    "SD": [
+        "OKX"
+    ],
+    "SEI": [
+        "Binance",
+        "Bybit"
+    ],
+    "SFP": [
+        "Binance",
+        "Bybit"
+    ],
+    "SHIB": [
+        "Binance",
+        "OKX"
+    ],
+    "SHIB1000": [
+        "Bybit"
+    ],
+    "SILLY": [
+        "Bybit"
+    ],
+    "SIS": [
+        "OKX"
+    ],
+    "SKL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SKY": [
+        "Binance"
+    ],
+    "SLERF": [
+        "Bybit",
+        "OKX"
+    ],
+    "SLF": [
+        "Binance",
+        "Bybit"
+    ],
+    "SLP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SNGLS": [
+        "Binance"
+    ],
+    "SNM": [
+        "Binance"
+    ],
+    "SNT": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SNX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SOL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SPARTA": [
+        "Binance"
+    ],
+    "SPEC": [
+        "Bybit"
+    ],
+    "SPELL": [
+        "Binance",
+        "Bybit"
+    ],
+    "SPURS": [
+        "OKX"
+    ],
+    "SRM": [
+        "Binance"
+    ],
+    "SSV": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SSWP": [
+        "OKX"
+    ],
+    "STEEM": [
+        "Binance",
+        "Bybit"
+    ],
+    "STETH": [
+        "OKX"
+    ],
+    "STG": [
+        "Binance",
+        "Bybit"
+    ],
+    "STMX": [
+        "Binance",
+        "Bybit"
+    ],
+    "STORJ": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "STORM": [
+        "Binance"
+    ],
+    "STPT": [
+        "Binance",
+        "Bybit"
+    ],
+    "STRAT": [
+        "Binance"
+    ],
+    "STRAX": [
+        "Binance"
+    ],
+    "STRK": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "STX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SUB": [
+        "Binance"
+    ],
+    "SUI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SUN": [
+        "Binance",
+        "Bybit"
+    ],
+    "SUNDOG": [
+        "Bybit"
+    ],
+    "SUPER": [
+        "Binance",
+        "Bybit"
+    ],
+    "SUSD": [
+        "Binance"
+    ],
+    "SUSHI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "SUSHIDOWN": [
+        "Binance"
+    ],
+    "SUSHIUP": [
+        "Binance"
+    ],
+    "SWEAT": [
+        "Bybit",
+        "OKX"
+    ],
+    "SWFTC": [
+        "OKX"
+    ],
+    "SWRV": [
+        "Binance"
+    ],
+    "SXP": [
+        "Binance",
+        "Bybit"
+    ],
+    "SXPDOWN": [
+        "Binance"
+    ],
+    "SXPUP": [
+        "Binance"
+    ],
+    "SYN": [
+        "Binance",
+        "Bybit"
+    ],
+    "SYS": [
+        "Binance",
+        "Bybit"
+    ],
+    "T": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TAIKO": [
+        "Bybit"
+    ],
+    "TAO": [
+        "Binance",
+        "Bybit"
+    ],
+    "TCT": [
+        "Binance"
+    ],
+    "TFUEL": [
+        "Binance"
+    ],
+    "THETA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TIA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TKO": [
+        "Binance"
+    ],
+    "TLM": [
+        "Binance",
+        "Bybit"
+    ],
+    "TNB": [
+        "Binance"
+    ],
+    "TNSR": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TNT": [
+        "Binance"
+    ],
+    "TOKEN": [
+        "Bybit"
+    ],
+    "TOMI": [
+        "Bybit"
+    ],
+    "TOMO": [
+        "Binance"
+    ],
+    "TON": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TORN": [
+        "Binance"
+    ],
+    "TRA": [
+        "OKX"
+    ],
+    "TRB": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TRIBE": [
+        "Binance"
+    ],
+    "TRIG": [
+        "Binance"
+    ],
+    "TROY": [
+        "Binance"
+    ],
+    "TRU": [
+        "Binance",
+        "Bybit"
+    ],
+    "TRX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "TRXDOWN": [
+        "Binance"
+    ],
+    "TRXUP": [
+        "Binance"
+    ],
+    "TURBO": [
+        "Binance",
+        "OKX"
+    ],
+    "TUSD": [
+        "Binance"
+    ],
+    "TUSDB": [
+        "Binance"
+    ],
+    "TVK": [
+        "Binance"
+    ],
+    "TWT": [
+        "Binance",
+        "Bybit"
+    ],
+    "UFT": [
+        "Binance"
+    ],
+    "ULTI": [
+        "OKX"
+    ],
+    "UMA": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "UNFI": [
+        "Binance",
+        "Bybit"
+    ],
+    "UNI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "UNIDOWN": [
+        "Binance"
+    ],
+    "UNIUP": [
+        "Binance"
+    ],
+    "USDC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "USDE": [
+        "Bybit"
+    ],
+    "USDP": [
+        "Binance"
+    ],
+    "USDS": [
+        "Binance"
+    ],
+    "USDSB": [
+        "Binance"
+    ],
+    "USDT": [
+        "Binance",
+        "OKX"
+    ],
+    "UST": [
+        "Binance"
+    ],
+    "USTC": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "UTK": [
+        "Binance",
+        "OKX"
+    ],
+    "UXLINK": [
+        "Bybit",
+        "OKX"
+    ],
+    "VANRY": [
+        "Binance",
+        "Bybit"
+    ],
+    "VELA": [
+        "OKX"
+    ],
+    "VELO": [
+        "Bybit",
+        "OKX"
+    ],
+    "VELODROME": [
+        "OKX"
+    ],
+    "VEN": [
+        "Binance"
+    ],
+    "VENOM": [
+        "OKX"
+    ],
+    "VET": [
+        "Binance",
+        "Bybit"
+    ],
+    "VGX": [
+        "Binance"
+    ],
+    "VIA": [
+        "Binance"
+    ],
+    "VIB": [
+        "Binance"
+    ],
+    "VIBE": [
+        "Binance"
+    ],
+    "VIC": [
+        "Binance"
+    ],
+    "VIDT": [
+        "Binance",
+        "Bybit"
+    ],
+    "VITE": [
+        "Binance"
+    ],
+    "VOXEL": [
+        "Binance",
+        "Bybit"
+    ],
+    "VRA": [
+        "Bybit",
+        "OKX"
+    ],
+    "VTHO": [
+        "Binance",
+        "Bybit"
+    ],
+    "W": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "WABI": [
+        "Binance"
+    ],
+    "WAN": [
+        "Binance"
+    ],
+    "WAVES": [
+        "Binance",
+        "Bybit"
+    ],
+    "WAXP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "WBETH": [
+        "Binance"
+    ],
+    "WBTC": [
+        "Binance",
+        "OKX"
+    ],
+    "WIF": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "WIFI": [
+        "OKX"
+    ],
+    "WIN": [
+        "Binance",
+        "OKX"
+    ],
+    "WING": [
+        "Binance"
+    ],
+    "WINGS": [
+        "Binance"
+    ],
+    "WLD": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "WNXM": [
+        "Binance"
+    ],
+    "WOO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "WPR": [
+        "Binance"
+    ],
+    "WRX": [
+        "Binance"
+    ],
+    "WSM": [
+        "OKX"
+    ],
+    "WTC": [
+        "Binance"
+    ],
+    "WXT": [
+        "OKX"
+    ],
+    "XAI": [
+        "Binance",
+        "Bybit"
+    ],
+    "XAUT": [
+        "OKX"
+    ],
+    "XCH": [
+        "Bybit",
+        "OKX"
+    ],
+    "XCN": [
+        "Bybit"
+    ],
+    "XEC": [
+        "Binance"
+    ],
+    "XEM": [
+        "Binance",
+        "Bybit"
+    ],
+    "XLM": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "XLMDOWN": [
+        "Binance"
+    ],
+    "XLMUP": [
+        "Binance"
+    ],
+    "XMR": [
+        "Binance",
+        "Bybit"
+    ],
+    "XNO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "XR": [
+        "OKX"
+    ],
+    "XRD": [
+        "Bybit"
+    ],
+    "XRP": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "XRPBEAR": [
+        "Binance"
+    ],
+    "XRPBULL": [
+        "Binance"
+    ],
+    "XRPDOWN": [
+        "Binance"
+    ],
+    "XRPUP": [
+        "Binance"
+    ],
+    "XTZ": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "XTZDOWN": [
+        "Binance"
+    ],
+    "XTZUP": [
+        "Binance"
+    ],
+    "XVG": [
+        "Binance",
+        "Bybit"
+    ],
+    "XVS": [
+        "Binance",
+        "Bybit"
+    ],
+    "XZC": [
+        "Binance"
+    ],
+    "YFI": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "YFIDOWN": [
+        "Binance"
+    ],
+    "YFII": [
+        "Binance"
+    ],
+    "YFIUP": [
+        "Binance"
+    ],
+    "YGG": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "YOYO": [
+        "Binance"
+    ],
+    "ZBCN": [
+        "Bybit",
+        "OKX"
+    ],
+    "ZEC": [
+        "Binance",
+        "Bybit"
+    ],
+    "ZEN": [
+        "Binance",
+        "Bybit"
+    ],
+    "ZENT": [
+        "OKX"
+    ],
+    "ZERO": [
+        "OKX"
+    ],
+    "ZETA": [
+        "Bybit",
+        "OKX"
+    ],
+    "ZEUS": [
+        "Bybit",
+        "OKX"
+    ],
+    "ZIL": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ZK": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ZKF": [
+        "Bybit"
+    ],
+    "ZKJ": [
+        "Bybit",
+        "OKX"
+    ],
+    "ZRO": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ],
+    "ZRX": [
+        "Binance",
+        "Bybit",
+        "OKX"
+    ]
+}
