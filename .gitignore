@@ -4,6 +4,8 @@ tempCodeRunnerFile.py
 combined_code.py
 .json
 /snapshots
+current_data.json
+first_page_table.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

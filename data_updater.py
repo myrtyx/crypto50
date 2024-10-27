@@ -129,7 +129,7 @@ def main():
             save_snapshot(data)
         except Exception as e:
             print(f"Произошла ошибка: {e}")
-        time.sleep(45)
+        time.sleep(300)
 
 if __name__ == '__main__':
     main()
